@@ -5,7 +5,8 @@ transformers
 ultralytics
 opencv-python-headless
 Pillow
-numpy
 tqdm
-ensemble-boxes
+numpy
 scikit-learn
+ensemble-boxes
+timm
