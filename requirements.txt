@@ -1,0 +1,13 @@
+ultralytics
+transformers
+timm
+opencv-python-headless
+pillow
+tqdm
+ensemble-boxes
+scikit-learn
+streamlit
+torch
+torchvision
+torchaudio
+
